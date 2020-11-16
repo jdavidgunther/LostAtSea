@@ -1,4 +1,4 @@
-# Lost At Sea :+1: 
+# Lost At Sea 
 Adventure Game for Introduction to Programming
 
 ## Game Overview 
