@@ -1,0 +1,6 @@
+c:\users\jack\documents\visual studio 2017\Projects\Lost at Sea\Lost at Sea\obj\Debug\Lost at Sea.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2017\Projects\Lost at Sea\Lost at Sea\bin\Debug\Lost at Sea.exe.config
+c:\users\jack\documents\visual studio 2017\Projects\Lost at Sea\Lost at Sea\bin\Debug\Lost at Sea.exe
+c:\users\jack\documents\visual studio 2017\Projects\Lost at Sea\Lost at Sea\bin\Debug\Lost at Sea.pdb
+c:\users\jack\documents\visual studio 2017\Projects\Lost at Sea\Lost at Sea\obj\Debug\Lost at Sea.exe
+c:\users\jack\documents\visual studio 2017\Projects\Lost at Sea\Lost at Sea\obj\Debug\Lost at Sea.pdb
